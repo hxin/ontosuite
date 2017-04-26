@@ -1,0 +1,196 @@
+T1	ontology_term 12 20	Neuronal
+N1	Reference T1 http://purl.obolibrary.org/obo/DOID_8117	
+T2	ontology_term 139 153	retinoblastoma
+N2	Reference T2 http://purl.obolibrary.org/obo/DOID_768	
+T3	ontology_term 314 321	neurons
+N3	Reference T3 http://purl.obolibrary.org/obo/DOID_8117	
+T4	ontology_term 495 502	retinal
+N4	Reference T4 http://purl.obolibrary.org/obo/DOID_3612	
+T5	ontology_term 1688 1702	retinoblastoma
+N5	Reference T5 http://purl.obolibrary.org/obo/DOID_768	
+T6	ontology_term 2234 2241	retinal
+N6	Reference T6 http://purl.obolibrary.org/obo/DOID_3612	
+T7	ontology_term 2242 2249	neurons
+N7	Reference T7 http://purl.obolibrary.org/obo/DOID_8117	
+T8	ontology_term 2437 2444	neurons
+N8	Reference T8 http://purl.obolibrary.org/obo/DOID_8117	
+T9	ontology_term 2557 2565	neuronal
+N9	Reference T9 http://purl.obolibrary.org/obo/DOID_8117	
+T10	ontology_term 3041 3048	retinal
+N10	Reference T10 http://purl.obolibrary.org/obo/DOID_3612	
+T11	ontology_term 3120 3127	retinal
+N11	Reference T11 http://purl.obolibrary.org/obo/DOID_3612	
+T12	ontology_term 3528 3535	retinal
+N12	Reference T12 http://purl.obolibrary.org/obo/DOID_3612	
+T13	ontology_term 4056 4063	Retinal
+N13	Reference T13 http://purl.obolibrary.org/obo/DOID_3612	
+T14	ontology_term 4996 5003	retinal
+N14	Reference T14 http://purl.obolibrary.org/obo/DOID_3612	
+T15	ontology_term 5627 5641	retinoblastoma
+N15	Reference T15 http://purl.obolibrary.org/obo/DOID_768	
+T16	ontology_term 5694 5701	retinal
+N16	Reference T16 http://purl.obolibrary.org/obo/DOID_3612	
+T17	ontology_term 8644 8652	neuronal
+N17	Reference T17 http://purl.obolibrary.org/obo/DOID_8117	
+T18	ontology_term 8928 8935	neurons
+N18	Reference T18 http://purl.obolibrary.org/obo/DOID_8117	
+T19	ontology_term 9414 9420	neuron
+N19	Reference T19 http://purl.obolibrary.org/obo/DOID_8117	
+T20	ontology_term 9749 9756	retinal
+N20	Reference T20 http://purl.obolibrary.org/obo/DOID_3612	
+T21	ontology_term 9757 9764	neurons
+N21	Reference T21 http://purl.obolibrary.org/obo/DOID_8117	
+T22	ontology_term 10588 10595	neurons
+N22	Reference T22 http://purl.obolibrary.org/obo/DOID_8117	
+T23	ontology_term 10683 10690	neurons
+N23	Reference T23 http://purl.obolibrary.org/obo/DOID_8117	
+T24	ontology_term 11220 11228	neuronal
+N24	Reference T24 http://purl.obolibrary.org/obo/DOID_8117	
+T25	ontology_term 11267 11274	neurons
+N25	Reference T25 http://purl.obolibrary.org/obo/DOID_8117	
+T26	ontology_term 13965 13972	neurons
+N26	Reference T26 http://purl.obolibrary.org/obo/DOID_8117	
+T27	ontology_term 14456 14463	retinal
+N27	Reference T27 http://purl.obolibrary.org/obo/DOID_3612	
+T28	ontology_term 16720 16727	neurons
+N28	Reference T28 http://purl.obolibrary.org/obo/DOID_8117	
+T29	ontology_term 16865 16873	neuronal
+N29	Reference T29 http://purl.obolibrary.org/obo/DOID_8117	
+T30	ontology_term 17103 17110	neurons
+N30	Reference T30 http://purl.obolibrary.org/obo/DOID_8117	
+T31	ontology_term 18142 18149	retinal
+N31	Reference T31 http://purl.obolibrary.org/obo/DOID_3612	
+T32	ontology_term 18726 18733	neurons
+N32	Reference T32 http://purl.obolibrary.org/obo/DOID_8117	
+T33	ontology_term 19536 19543	neurons
+N33	Reference T33 http://purl.obolibrary.org/obo/DOID_8117	
+T34	ontology_term 24434 24441	neurons
+N34	Reference T34 http://purl.obolibrary.org/obo/DOID_8117	
+T35	ontology_term 24564 24571	retinal
+N35	Reference T35 http://purl.obolibrary.org/obo/DOID_3612	
+T36	ontology_term 25660 25667	neurons
+N36	Reference T36 http://purl.obolibrary.org/obo/DOID_8117	
+T37	ontology_term 27896 27903	retinal
+N37	Reference T37 http://purl.obolibrary.org/obo/DOID_3612	
+T38	ontology_term 28587 28594	retinal
+N38	Reference T38 http://purl.obolibrary.org/obo/DOID_3612	
+T39	ontology_term 28761 28768	retinal
+N39	Reference T39 http://purl.obolibrary.org/obo/DOID_3612	
+T40	ontology_term 29392 29400	neuronal
+N40	Reference T40 http://purl.obolibrary.org/obo/DOID_8117	
+T41	ontology_term 32947 32954	Neurons
+N41	Reference T41 http://purl.obolibrary.org/obo/DOID_8117	
+T42	ontology_term 33038 33045	retinal
+N42	Reference T42 http://purl.obolibrary.org/obo/DOID_3612	
+T43	ontology_term 33046 33053	neurons
+N43	Reference T43 http://purl.obolibrary.org/obo/DOID_8117	
+T44	ontology_term 34720 34727	retinal
+N44	Reference T44 http://purl.obolibrary.org/obo/DOID_3612	
+T45	ontology_term 34728 34735	neurons
+N45	Reference T45 http://purl.obolibrary.org/obo/DOID_8117	
+T46	ontology_term 34824 34831	retinal
+N46	Reference T46 http://purl.obolibrary.org/obo/DOID_3612	
+T47	ontology_term 35099 35106	retinal
+N47	Reference T47 http://purl.obolibrary.org/obo/DOID_3612	
+T48	ontology_term 35107 35114	neurons
+N48	Reference T48 http://purl.obolibrary.org/obo/DOID_8117	
+T49	ontology_term 35144 35151	retinal
+N49	Reference T49 http://purl.obolibrary.org/obo/DOID_3612	
+T50	ontology_term 35292 35299	retinal
+N50	Reference T50 http://purl.obolibrary.org/obo/DOID_3612	
+T51	ontology_term 35300 35307	neurons
+N51	Reference T51 http://purl.obolibrary.org/obo/DOID_8117	
+T52	ontology_term 35321 35328	retinal
+N52	Reference T52 http://purl.obolibrary.org/obo/DOID_3612	
+T53	ontology_term 35613 35620	neurons
+N53	Reference T53 http://purl.obolibrary.org/obo/DOID_8117	
+T54	ontology_term 35732 35740	neuronal
+N54	Reference T54 http://purl.obolibrary.org/obo/DOID_8117	
+T55	ontology_term 35815 35822	neurons
+N55	Reference T55 http://purl.obolibrary.org/obo/DOID_8117	
+T56	ontology_term 35882 35889	retinal
+N56	Reference T56 http://purl.obolibrary.org/obo/DOID_3612	
+T57	ontology_term 35954 35961	neurons
+N57	Reference T57 http://purl.obolibrary.org/obo/DOID_8117	
+T58	ontology_term 36099 36106	neurons
+N58	Reference T58 http://purl.obolibrary.org/obo/DOID_8117	
+T59	ontology_term 36152 36159	neurons
+N59	Reference T59 http://purl.obolibrary.org/obo/DOID_8117	
+T60	ontology_term 37116 37123	retinal
+N60	Reference T60 http://purl.obolibrary.org/obo/DOID_3612	
+T61	ontology_term 37500 37507	retinal
+N61	Reference T61 http://purl.obolibrary.org/obo/DOID_3612	
+T62	ontology_term 38813 38820	retinal
+N62	Reference T62 http://purl.obolibrary.org/obo/DOID_3612	
+T63	ontology_term 40226 40233	retinal
+N63	Reference T63 http://purl.obolibrary.org/obo/DOID_3612	
+T64	ontology_term 40574 40581	retinal
+N64	Reference T64 http://purl.obolibrary.org/obo/DOID_3612	
+T65	ontology_term 41969 41976	retinal
+N65	Reference T65 http://purl.obolibrary.org/obo/DOID_3612	
+T66	ontology_term 42852 42860	neuronal
+N66	Reference T66 http://purl.obolibrary.org/obo/DOID_8117	
+T67	ontology_term 42903 42910	Retinal
+N67	Reference T67 http://purl.obolibrary.org/obo/DOID_3612	
+T68	ontology_term 43013 43021	neuronal
+N68	Reference T68 http://purl.obolibrary.org/obo/DOID_8117	
+T69	ontology_term 43286 43293	neurons
+N69	Reference T69 http://purl.obolibrary.org/obo/DOID_8117	
+T70	ontology_term 43339 43346	neurons
+N70	Reference T70 http://purl.obolibrary.org/obo/DOID_8117	
+T71	ontology_term 43571 43579	neuronal
+N71	Reference T71 http://purl.obolibrary.org/obo/DOID_8117	
+T72	ontology_term 43737 43744	neurons
+N72	Reference T72 http://purl.obolibrary.org/obo/DOID_8117	
+T73	ontology_term 44139 44146	retinal
+N73	Reference T73 http://purl.obolibrary.org/obo/DOID_3612	
+T74	ontology_term 44301 44308	retinal
+N74	Reference T74 http://purl.obolibrary.org/obo/DOID_3612	
+T75	ontology_term 45248 45262	retinoblastoma
+N75	Reference T75 http://purl.obolibrary.org/obo/DOID_768	
+T76	ontology_term 45886 45893	retinal
+N76	Reference T76 http://purl.obolibrary.org/obo/DOID_3612	
+T77	ontology_term 45894 45901	neurons
+N77	Reference T77 http://purl.obolibrary.org/obo/DOID_8117	
+T78	ontology_term 46350 46358	neuronal
+N78	Reference T78 http://purl.obolibrary.org/obo/DOID_8117	
+T79	ontology_term 48031 48038	neurons
+N79	Reference T79 http://purl.obolibrary.org/obo/DOID_8117	
+T80	ontology_term 48121 48128	neurons
+N80	Reference T80 http://purl.obolibrary.org/obo/DOID_8117	
+T81	ontology_term 48239 48247	neuronal
+N81	Reference T81 http://purl.obolibrary.org/obo/DOID_8117	
+T82	ontology_term 49330 49337	retinal
+N82	Reference T82 http://purl.obolibrary.org/obo/DOID_3612	
+T83	ontology_term 49975 49982	retinal
+N83	Reference T83 http://purl.obolibrary.org/obo/DOID_3612	
+T84	ontology_term 50663 50670	neurons
+N84	Reference T84 http://purl.obolibrary.org/obo/DOID_8117	
+T85	ontology_term 51224 51231	neurons
+N85	Reference T85 http://purl.obolibrary.org/obo/DOID_8117	
+T86	ontology_term 51970 51984	retinoblastoma
+N86	Reference T86 http://purl.obolibrary.org/obo/DOID_768	
+T87	ontology_term 52685 52692	neurons
+N87	Reference T87 http://purl.obolibrary.org/obo/DOID_8117	
+T88	ontology_term 52769 52776	neurons
+N88	Reference T88 http://purl.obolibrary.org/obo/DOID_8117	
+T89	ontology_term 52881 52889	neuronal
+N89	Reference T89 http://purl.obolibrary.org/obo/DOID_8117	
+T90	ontology_term 62639 62646	retinal
+N90	Reference T90 http://purl.obolibrary.org/obo/DOID_3612	
+T91	ontology_term 63226 63233	retinal
+N91	Reference T91 http://purl.obolibrary.org/obo/DOID_3612	
+T92	ontology_term 63920 63927	Retinal
+N92	Reference T92 http://purl.obolibrary.org/obo/DOID_3612	
+T93	ontology_term 64248 64255	retinal
+N93	Reference T93 http://purl.obolibrary.org/obo/DOID_3612	
+T94	ontology_term 65518 65525	retinal
+N94	Reference T94 http://purl.obolibrary.org/obo/DOID_3612	
+T95	ontology_term 67301 67315	retinoblastoma
+N95	Reference T95 http://purl.obolibrary.org/obo/DOID_768	
+T96	ontology_term 67331 67338	retinal
+N96	Reference T96 http://purl.obolibrary.org/obo/DOID_3612	
+T97	ontology_term 67362 67369	retinal
+N97	Reference T97 http://purl.obolibrary.org/obo/DOID_3612	
+T98	ontology_term 67933 67942	Blindness
+N98	Reference T98 http://purl.obolibrary.org/obo/DOID_1432
