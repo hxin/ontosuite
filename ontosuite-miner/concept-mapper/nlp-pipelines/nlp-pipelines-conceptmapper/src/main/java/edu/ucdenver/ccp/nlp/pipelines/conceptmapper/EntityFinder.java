@@ -50,6 +50,7 @@ import org.apache.uima.resource.ResourceInitializationException;
 import org.apache.uima.resource.metadata.TypeSystemDescription;
 import org.cleartk.syntax.opennlp.SentenceAnnotator;
 import org.cleartk.token.type.Sentence;
+import org.springframework.stereotype.Component;
 import org.uimafit.factory.AnalysisEngineFactory;
 import org.uimafit.factory.CollectionReaderFactory;
 import org.uimafit.factory.TypeSystemDescriptionFactory;
@@ -74,6 +75,7 @@ import edu.ucdenver.ccp.nlp.uima.shims.annotation.impl.CcpAnnotationDataExtracto
 import edu.ucdenver.ccp.nlp.uima.util.TypeSystemUtil;
 import edu.ucdenver.ccp.nlp.uima.util.View;
 import edu.ucdenver.ccp.nlp.wrapper.conceptmapper.ConceptMapperPermutationFactory;
+
 
 public class EntityFinder {
 
@@ -273,26 +275,25 @@ public class EntityFinder {
 	 * specified, this paramter contains the encoding of the obo file default is
 	 * UTF-8
 	 * 
-	 * @param args
 	 * @throws IOException
 	 * @throws UIMAException
 	 */
-	public static void main(String[] args) throws UIMAException, IOException {
+	public static void run(String[] args) throws UIMAException, IOException {
 		TypeSystemDescription tsd = createConceptMapperTypeSystem();
 
-//		String inputDir = args[0];
-//		String outputDir = args[1];
-//		String ontology = args[2];
-//		String oboPath = args[3];
-//		String oboDir = args[4];
-//		boolean cleanDictionaryFile = Boolean.parseBoolean(args[5]);
+		String inputDir = args[0];
+		String outputDir = args[1];
+		String ontology = args[2];
+		String oboPath = args[3];
+		String oboDir = args[4];
+		boolean cleanDictionaryFile = Boolean.parseBoolean(args[5]);
 
-		String inputDir = "/Users/xinhe/Desktop/cm/in/";
-		String outputDir = "/Users/xinhe/Desktop/cm/out/";
-		String ontology = "OBO";
-		String oboPath = "/Users/xinhe/Desktop/cm/doid.obo";
-		String oboDir = "/Users/xinhe/Desktop/cm/";
-		boolean cleanDictionaryFile = Boolean.parseBoolean("TRUE");
+//		String inputDir = "/Users/xinhe/Desktop/cm/in/";
+//		String outputDir = "/Users/xinhe/Desktop/cm/out/";
+//		String ontology = "OBO";
+//		String oboPath = "/Users/xinhe/Desktop/cm/doid.obo";
+//		String oboDir = "/Users/xinhe/Desktop/cm/";
+//		boolean cleanDictionaryFile = Boolean.parseBoolean("TRUE");
 
 		System.out.println("Processing files from : " + inputDir + "\nWriting output files to: " + outputDir);
 

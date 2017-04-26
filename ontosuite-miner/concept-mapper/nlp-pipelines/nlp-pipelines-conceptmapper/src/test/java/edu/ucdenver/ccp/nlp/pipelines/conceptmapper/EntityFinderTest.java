@@ -94,7 +94,7 @@ public class EntityFinderTest extends DefaultUIMATestCase {
 		
 		String [] args = {inputTextFileDir, outputDir, ontology, oboFile, outputDictDir, cleanDictFile};
 		
-		EntityFinder.main(args);
+		EntityFinder.run(args);
 		
 		File knownAnnotations = new File("src" + File.separator + "test" + File.separator 
 				+ "resources" + File.separator + "17608565_CL.a1");
@@ -123,7 +123,7 @@ public class EntityFinderTest extends DefaultUIMATestCase {
 		
 		String [] args = {inputTextFileDir, outputDir, ontology, oboFile, outputDictDir, cleanDictFile};
 		
-		EntityFinder.main(args);
+		EntityFinder.run(args);
 		
 		File knownAnnotations = new File("src" + File.separator + "test" + File.separator 
 				+ "resources" + File.separator + "17608565_DOID.a1");
